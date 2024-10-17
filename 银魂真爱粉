@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>银魂粉丝网站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>欢迎来到银魂粉丝网站</h1>
+</header>
+
+<section>
+    <h2>关于银魂</h2>
+    <p>《银魂》是一部由空知英秋创作的日本漫画，讲述了一个在幕末时代的虚构世界中，外星人和武士共存的故事。它以幽默和感人的情节而闻名。</p>
+    
+    <h2>主要角色</h2>
+    <ul>
+        <li>坂田银时 - 主人公，外表懒散但内心正义。</li>
+        <li>志村新八 - 银时的朋友，忠诚的武士。</li>
+        <li>神楽 - 银时的搭档，拥有超人的力量。</li>
+    </ul>
+
+    <h2>精彩瞬间</h2>
+    <img src="https://example.com/path-to-your-image.jpg" alt="银魂图片">
+</section>
+
+<footer>
+    <p>&copy; 2024 银魂粉丝网站 | 联系我们：contact@example.com</p>
+</footer>
+
+</body>
+</html>
